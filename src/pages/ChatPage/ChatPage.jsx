@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import SidePanel from './SidePanel/SidePanel';
 import MainPanel from './MainPanel/MainPanel';
 
